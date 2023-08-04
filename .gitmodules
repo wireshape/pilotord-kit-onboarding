@@ -1,0 +1,4 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/wireshape/real-digital-smart-contracts.git
+	branch = main
